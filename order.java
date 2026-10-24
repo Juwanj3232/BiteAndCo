@@ -26,7 +26,7 @@ items.add(item);
 }
 
 // use abstract method for the price that turns into a double
-public abstract double  calculatePrice();
+public abstract double calculatePrice();
 
 // use getters 
 public ArrayList<menuItems> getItems() { return items; }
